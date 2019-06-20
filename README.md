@@ -2,11 +2,14 @@
 I love You :*
 
 # Need Install
-pkg install python
-pkg install git
+git clone https://github.com/SamuelCodeTx/sitimaisyarah-love
 
 # Cara pakai
 
 cd sitimaisyarah-love-samuel
 
-python sitimaisyarah.py
+pip install mechanize
+
+pip install requests
+
+python2 sitimaisyarah.py
